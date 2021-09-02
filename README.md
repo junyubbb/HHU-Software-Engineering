@@ -12,5 +12,6 @@
 ![第二步](https://user-images.githubusercontent.com/62237190/131783205-91a1a9d3-46b6-4bf0-bd29-06e5c11bb4d0.png)
 ![第三步](https://user-images.githubusercontent.com/62237190/131783207-aebb1c31-d3e2-428b-906c-37f94aa2a645.png)
 ![第四步](https://user-images.githubusercontent.com/62237190/131783211-ad8cc20b-c936-420c-89c2-89c8fb3691f3.png)
-![Uploading 第五步.png…]()
-![Uploading 第六步.png…]()
+![第五步](https://user-images.githubusercontent.com/62237190/131783494-02166b62-48d1-4f1f-b6ed-ceee42426b2d.png)
+![第六步](https://user-images.githubusercontent.com/62237190/131783499-45840918-aab1-4563-8110-4cedb8f6a160.png)
+
