@@ -8,4 +8,3 @@
  - 用pull request提交作业
  - 等待管理员同意
  - 提交教程https://www.cnblogs.com/bingc/p/5080794.html （注意不用创建新的目录了，在对应的第几次作业创建自己的代码文件就好）
-![QQ图片20210901181821](https://user-images.githubusercontent.com/62237190/131780027-9e2ca180-422f-43a7-8afa-a627f6f669f2.jpg)
